@@ -1,0 +1,11 @@
+{
+    "require": {
+        "picqer/moneybird-php-client": "^0.26.0"
+    },
+
+    "autoload" : {
+            "psr-4" : {
+            "Demo\\" : "src/"
+        }
+    }
+}
